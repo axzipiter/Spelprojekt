@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\Fajtklubb\Fajtklubb\bin\Fajtklubb.dll.config
+c:\users\viktor\documents\visual studio 2015\Projects\Fajtklubb\Fajtklubb\bin\Fajtklubb.dll
+c:\users\viktor\documents\visual studio 2015\Projects\Fajtklubb\Fajtklubb\bin\Fajtklubb.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\Fajtklubb\Fajtklubb\obj\Debug\Fajtklubb.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\Fajtklubb\Fajtklubb\obj\Debug\Fajtklubb.dll
+c:\users\viktor\documents\visual studio 2015\Projects\Fajtklubb\Fajtklubb\obj\Debug\Fajtklubb.pdb
